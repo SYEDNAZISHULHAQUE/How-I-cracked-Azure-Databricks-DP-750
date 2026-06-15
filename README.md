@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🏆 How I Cracked the DP-750 Exam
-<img width="1402" height="1122" alt="DP_750_Pass" src="https://github.com/user-attachments/assets/2078a2e0-4d72-4a05-a897-ef610b232ea7" />
+<img width="800" height="700" alt="DP_750_Pass" src="https://github.com/user-attachments/assets/2078a2e0-4d72-4a05-a897-ef610b232ea7" />
 
 ### Microsoft Certified: Implementing Data Engineering Solutions Using Azure Databricks
 
